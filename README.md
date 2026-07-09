@@ -1,10 +1,17 @@
 <!-- Header Section with Typing Animation and Profile Views -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Hello%20World!%20%F0%9F%91%8B;I'm%20Ibrahim%20Khalilullah;Full%20Stack%20Developer;MERN%20%26%20Next.js%20Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Hello+World!+%F0%9F%91%8B;I'm+Ibrahim+Khalilullah;Full+Stack+Developer;MERN+%26+Next.js+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=39D353&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ibrahim-khalilullah-dev&label=PROFILE+VIEWS&color=39D353&style=flat-square" alt="Profile Views" />
+</p>
+
+<!-- 3D Profile Trophies -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ibrahim-khalilullah-dev&theme=radical&no-bg=true&margin-w=15" alt="Github Trophies" />
+  </a>
 </p>
 
 ---
@@ -78,14 +85,18 @@
 ### 📊 GitHub Performance Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&align=center" alt="Ibrahim's GitHub stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&align=center" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ibrahim-khalilullah-dev&show_icons=true&theme=radical&hide_border=true&align=center" alt="Ibrahim's GitHub stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-khalilullah-dev&layout=compact&theme=radical&hide_border=true&align=center" alt="Top Languages" height="180" />
 </p>
 
-<!-- Optional Dynamic Snake Game Section -->
+<!-- Interactive Contribution Snake Game (Adaptive Light/Dark styling) -->
 ### 🎮 Contribution History (Dynamic Activity)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Game" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ibrahim-khalilullah-dev/ibrahim-khalilullah-dev/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ibrahim-khalilullah-dev/ibrahim-khalilullah-dev/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ibrahim-khalilullah-dev/ibrahim-khalilullah-dev/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
@@ -108,7 +119,7 @@
   <a href="https://wa.me/8801754488189">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/ibrahim-khalilullah-dev">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
