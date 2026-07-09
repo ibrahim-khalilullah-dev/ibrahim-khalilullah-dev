@@ -1,24 +1,28 @@
-<!-- Header Section with Typing Animation and Profile Views -->
+<!-- 1. Visually Appealing Banner at the Top -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Hello+World!+%F0%9F%91%8B;I'm+Ibrahim+Khalilullah;Full+Stack+Developer;MERN+%26+Next.js+Enthusiast" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=39D353&height=200&section=header&text=Ibrahim%20Khalilullah&fontSize=45&animation=fadeIn" alt="Ibrahim's Banner" />
+</p>
+
+<!-- Name & Designation -->
+<p align="center">
+  <strong>Full Stack Developer | MERN Stack & Next.js Enthusiast</strong>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ibrahim-khalilullah-dev&label=PROFILE+VIEWS&color=39D353&style=flat-square" alt="Profile Views" />
 </p>
 
-<!-- 3D Profile Trophies -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ibrahim-khalilullah-dev&theme=radical&no-bg=true&margin-w=15" alt="Github Trophies" />
-  </a>
-</p>
-
 ---
 
 ### 📖 About Me
+An adaptive Student-Engineer balancing intermediate academics at Patgram Government College with a dedicated 4-hour daily commitment to intensive, self-directed MERN Stack & Next.js software engineering. Backed by the production-grade curriculum and mentorship of Programming Hero, I combine rapid learning agility with modern architectural practices, local database benchmarking, and secure session pipelines to build clean, performant web applications.
 
-> **Student-Engineer** balancing intermediate academic commitments at *Patgram Government College* with a disciplined, daily 4-hour schedule dedicated to self-directed software engineering. Under the guidance of *Programming Hero*, I combine rapid learning agility with modern architectural practices, local database benchmarking (targeting 150ms Mongoose responses), and secure session pipelines to build performant, production-ready web applications.
+---
+
+### 🚀 Current Activities
+* ⚡ I am exploring Next.js.
+* 🗺️ I’m working on a tourism website.
+* 🔒 Improving database performance and security pipelines.
 
 ---
 
@@ -66,14 +70,7 @@
 
 ---
 
-### 🚀 Focus Areas
-* ⚡ **Performance Optimization**: Achieving 150ms Mongoose query response targets.
-* 🛡️ **Session Security**: Implementing session pipelines using tools like BetterAuth and JSON Web Tokens.
-* 🌍 **Exploration**: Refining Next.js server actions and dynamic rendering strategies.
-
----
-
-### 📂 Featured Deployments
+### 📂 Selected Works
 
 | Project | Key Architectures & Features | Tech Stack |
 | :--- | :--- | :--- |
@@ -85,8 +82,14 @@
 ### 📊 GitHub Performance Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrahim-khalilullah-dev&show_icons=true&theme=radical&hide_border=true&align=center" alt="Ibrahim's GitHub stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-khalilullah-dev&layout=compact&theme=radical&hide_border=true&align=center" alt="Top Languages" height="180" />
+  <!-- Stable Community Mirror for Stats and Top Languages -->
+  <img src="https://github-readme-stats.shion.dev/api?username=ibrahim-khalilullah-dev&show_icons=true&theme=radical&hide_border=true&align=center" alt="Ibrahim's GitHub stats" height="180" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ibrahim-khalilullah-dev&layout=compact&theme=radical&hide_border=true&align=center" alt="Top Languages" height="180" />
+</p>
+
+<p align="center">
+  <!-- Stable DenverCoder1 Streak Stats API -->
+  <img src="https://streak-stats.demolab.com/?user=ibrahim-khalilullah-dev&theme=radical&hide_border=true" alt="GitHub Streak" height="180" />
 </p>
 
 <!-- Interactive Contribution Snake Game (Adaptive Light/Dark styling) -->
@@ -110,18 +113,22 @@
 
 ---
 
-### ✉️ Establish Connection
+### ✉️ Contact Information & Social Links
 
 <p align="left">
   <a href="mailto:01754488189ib@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER_USERNAME">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
   <a href="https://wa.me/8801754488189">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  <a href="https://github.com/ibrahim-khalilullah-dev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </p>
 
-📍 *Patgram, Lalmonirhat, Rangpur, Bangladesh*
+* 📞 **Contact Number:** 01754-488189
+* 📍 **Current Location:** Patgram, Lalmonirhat, Rangpur, Bangladesh
