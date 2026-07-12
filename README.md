@@ -1,6 +1,6 @@
-<!-- 1. Your Custom Banner Image (Upload your 'banner.png' to make this show up!) -->
+<!-- 1. Ready-Made Cozy Animated Programmer Banner (Loads instantly!) -->
 <p align="center">
-  <img src="./banner.png" alt="Ibrahim's Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/d3vdebug/pixelartgifs/main/gifs/developer.gif" alt="Pixel Art Programmer Coding" width="100%" />
 </p>
 
 <!-- Profile Views Counter -->
@@ -22,8 +22,8 @@
 ### 📊 GitHub Performance Metrics
 
 <p align="center">
-  <!-- Dynamic GitHub Stats -->
-  <img src="https://github-readme-stats.shion.dev/api?username=ibrahim-khalilullah-dev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180" />
+  <!-- Stable GitHub Stats (Using the new 2026 maintained stats-extended mirror) -->
+  <img src="https://github-stats-extended.vercel.app/api?username=ibrahim-khalilullah-dev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180" />
   <!-- Dynamic Streak Stats -->
   <img src="https://streak-stats.demolab.com/?user=ibrahim-khalilullah-dev&theme=radical&hide_border=true" alt="GitHub Streak" height="180" />
 </p>
@@ -33,7 +33,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <!-- Beautiful new skill icons that look completely original and natural -->
+  <!-- Clean premium developer icons -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,firebase,git,vercel,figma,postman" />
   </a>
@@ -44,6 +44,10 @@
 ### 📞 Connect with Me
 
 <p align="center">
+  <!-- Portfolio Website Badge -->
+  <a href="https://portfolio-ibrahim-nine.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/My_Portfolio-39D353?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
   <!-- Fixed LinkedIn Link -->
   <a href="https://www.linkedin.com/in/ibrahim-khalilullah-248699408/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -62,7 +66,19 @@
 
 ---
 
-<!-- Space Invaders Grid Game -->
+<!-- 2. Interactive Contribution Snake Game (Adaptive Dark/Light mode) -->
+### 🐍 Contribution History (Snake Game)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ibrahim-khalilullah-dev/ibrahim-khalilullah-dev/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ibrahim-khalilullah-dev/ibrahim-khalilullah-dev/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ibrahim-khalilullah-dev/ibrahim-khalilullah-dev/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
+<!-- 3. Space Invaders Grid Game -->
 ### 🎮 Contributions Space Invaders Game
 <p align="center">
   <img src="./game.gif" alt="Space Invaders Grid Game" width="100%" />
