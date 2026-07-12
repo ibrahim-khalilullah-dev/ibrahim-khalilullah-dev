@@ -1,4 +1,4 @@
-<!-- 1. Your Custom AI Banner (Upload your 'banner.png' to your repo to make it show up!) -->
+<!-- 1. Your Custom AI Banner (Loads your 'banner.png' file!) -->
 <p align="center">
   <img src="./banner.png" alt="Ibrahim's Custom Banner" width="100%" />
 </p>
@@ -30,61 +30,35 @@
 
 ---
 
-### 🛠️ Languages & Tools (আমার প্রযুক্তি ও দক্ষতা)
+### 🛠️ Technical Spectrum
 
-<!-- Categorized Skills Cards based on your exact screenshot design -->
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💻 প্রধান প্রযুক্তি (Core)</h4>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=api&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>📦 ফ্রেমওয়ার্ক ও লাইব্রেরি</h4>
-      <img src="https://img.shields.io/badge/React.js-20232a?style=flat-square&logo=react&logoColor=%2361DAFB" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express&logoColor=%2361DAFB" /><br/>
-      <img src="https://img.shields.io/badge/MERN_Stack-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🎨 সিএসএস ফ্রেমওয়ার্ক</h4>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Custom_CSS_Variables-1572B6?style=flat-square&logo=css3&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>☁️ ডাটাবেস ও ক্লাউড</h4>
-      <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-      <img src="https://img.shields.io/badge/Railway-131415?style=flat-square&logo=railway&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🔄 স্টেট ম্যানেজমেন্ট ও রাউটিং</h4>
-      <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Next.js_Routing-000000?style=flat-square&logo=next.js&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>🛠️ টুলস ও ইকোসিস্টেম</h4>
-      <img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-      <img src="https://img.shields.io/badge/JWT_Validation-000000?style=flat-square&logo=json-web-tokens&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/PostCSS-DD3A0A?style=flat-square&logo=postcss&logoColor=white" />
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-    </td>
-  </tr>
-</table>
+⚡ **Languages & Core**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,git" alt="Core Languages" />
+  </a>
+</p>
+
+⚡ **Frameworks & Libraries**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb" alt="Frameworks" />
+  </a>
+</p>
+
+⚡ **Styling & Design**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,figma" alt="Design" />
+  </a>
+</p>
+
+⚡ **Tools & Cloud Deploys**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=npm,postman,vercel,firebase" alt="Tools" />
+  </a>
+</p>
 
 ---
 
@@ -113,7 +87,7 @@
 
 ---
 
-<!-- 2. Interactive Contribution Snake Game (Adaptive Dark/Light mode) -->
+<!-- 2. Interactive Contribution Snake Game -->
 ### 🐍 Contribution History (Snake Game)
 <p align="center">
   <picture>
